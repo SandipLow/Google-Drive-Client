@@ -1,0 +1,26 @@
+/* Global CSS File */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"); /* Font Awesome */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --col1: #E8B4B8;
+    --col2: #EED6D3;
+    --col3: #A49393;
+    --col4: #67595E;
+}
+
+button {
+    cursor: pointer;
+    border: none
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
